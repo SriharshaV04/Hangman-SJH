@@ -1,0 +1,37 @@
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.csprojAssemblyReference.cache
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.csproj.CoreCompileInputs.cache
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.AssemblyInfoInputs.cache
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.AssemblyInfo.cs
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.exe
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.deps.json
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.runtimeconfig.json
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.runtimeconfig.dev.json
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.dll
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.pdb
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.dll
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.pdb
+C:/Users/James Chen/RiderProjects/HangmanJames/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.genruntimeconfig.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.deps.json
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.runtimeconfig.json
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.runtimeconfig.dev.json
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.dll
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.pdb
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.csprojAssemblyReference.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.AssemblyInfoInputs.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.AssemblyInfo.cs
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.csproj.CoreCompileInputs.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.dll
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.pdb
+/Users/sriharshavitta/Downloads/HangmanJames 2/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.genruntimeconfig.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.deps.json
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.runtimeconfig.json
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.runtimeconfig.dev.json
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.dll
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/bin/Debug/netcoreapp3.1/HangmanJames.pdb
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.csprojAssemblyReference.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.AssemblyInfoInputs.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.AssemblyInfo.cs
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.csproj.CoreCompileInputs.cache
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.dll
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.pdb
+/Users/sriharshavitta/Downloads/HangmanJames 2 10.53.59/HangmanJames/obj/Debug/netcoreapp3.1/HangmanJames.genruntimeconfig.cache
