@@ -190,6 +190,19 @@ namespace HangmanJames
 
             return true;
         }
+        static int use(string a, List<char> b)
+        {
+            int d = b.Count;
+            for (int i=0;i < d; i++) 
+            {
+                if (a == b[i].ToString())
+                {
+                    return 1;
+                }
+            }
+
+            return 0;
+        }
         static void Main(string[] args)
         {
             char[] model = RandomWord().ToCharArray();
@@ -201,6 +214,7 @@ namespace HangmanJames
             Console.WriteLine("You have 7 attempts attempts to guess the word");
             Console.WriteLine("-------------------");
             Console.WriteLine("");
+            
             while (used.Count <= 7)
             {
                 bool f = draw(used,model);
@@ -213,9 +227,9 @@ namespace HangmanJames
                 Console.WriteLine($"Lives:{7-used.Count}");
                 Console.WriteLine("Choose a letter:");
                 string guess = Console.ReadLine();
-                while (guess.Length > 1)
+                while (guess.Length != 1 || Char.IsLetter(guess[0]) == false || use (guess[0].ToString(), used) == 1 )
                 {
-                    Console.WriteLine("Choose a letter:");
+                    Console.WriteLine("the input is above 2 letters long or is not a letter, please input again:");
                     guess = Console.ReadLine();
                 }
                 char letter = Char.Parse(guess);
@@ -228,10 +242,8 @@ namespace HangmanJames
                     Console.WriteLine("---------You win!----------");
                     break;
                 }
-                
             }
         }
-        
     }
 }
 
